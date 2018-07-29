@@ -1,0 +1,17 @@
+{
+  "name": "@jmblog/animation-canvas-works",
+  "version": "1.0.0",
+  "description": "The animation canvas works for study",
+  "scripts": {
+    "start": "parcel *.html",
+    "build": "parcel build *.html"
+  },
+  "keywords": [],
+  "author": "Yoshihide Jimbo",
+  "license": "MIT",
+  "devDependencies": {
+    "@jmblog/prettier-config": "github:jmblog/prettier-config",
+    "parcel-bundler": "^1.9.7",
+    "typescript": "^2.9.2"
+  }
+}
